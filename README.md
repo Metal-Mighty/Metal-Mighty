@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ✨
 
 <!--
 **Metal-Mighty/Metal-Mighty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🖥️ Software engineer
+- ⚙️ I’m currently working on IoT platforms and industrial automation communication
+- 🦔 Chief editor & tech admin @ Planete-Sonic.com
+- 🔎 Tech enthusiast
+- 🎮 Gamer
+- 📫 How to reach me: [@MetalMighty](https://twitter.com/MetalMighty)🐦
+- 🏳️‍🌈 Pronouns: They/Them
