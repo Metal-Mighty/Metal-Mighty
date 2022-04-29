@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🖥️ Software engineer
+- 🐓 French 🇫🇷
 - ⚙️ I’m currently working on IoT platforms and industrial automation communication
 - 🦔 Chief editor & tech admin @ Planete-Sonic.com
 - 🔎 Tech enthusiast
