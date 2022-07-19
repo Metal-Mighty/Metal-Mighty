@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🖥️ Software engineer
 - 🐓 French 🇫🇷
 - ⚙️ I’m currently working on IoT platforms and industrial automation communication
-- 🦔 Chief editor & tech admin @ Planete-Sonic.com
+- 🦔 Chief editor & tech admin @ [Planete-Sonic.com](https://planete-sonic.com)
 - 🔎 Tech enthusiast
 - 🎮 Gamer
 - 📫 How to reach me: [@MetalMighty](https://twitter.com/MetalMighty)🐦
