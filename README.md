@@ -1,25 +1,11 @@
 ### Hi there ✨
 
-<!--
-**Metal-Mighty/Metal-Mighty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - 🖥️ Software engineer
 - 🐓 French 🇫🇷
 - ⚙️ I’m currently working on IoT platforms and industrial automation communication
-- 🦔 Chief editor & tech admin @ [Planete-Sonic.com](https://planete-sonic.com)
 - 🔎 Tech enthusiast
 - 🎮 Gamer
+- 📸 Photographer
+- 🦔 Former chief editor & tech admin @ [Planete-Sonic.com](https://planete-sonic.com) & [Hérisson Bleu](https://herisson-bleu.fr)
 - 📫 How to reach me: [@MetalMighty](https://twitter.com/MetalMighty)🐦
 - 🏳️‍🌈 Pronouns: They/Them
